@@ -60,3 +60,5 @@ form.addEventListener("submit", function (event) {
 
 // Initial display
 displayBooks();
+
+//todo: Add a button to each book's display to remove the book from the library.
